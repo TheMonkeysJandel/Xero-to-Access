@@ -3,6 +3,8 @@ How I managed to connect little ol MS Access to Xero using VBA
 
 I couldn't find anyone who successfully used MS Access to connect to XERO using only VBA. And I finally nailed it.
 
+I wish I'd recorded all my sources because I didn't do this alone. There were hundreds of people out there who's bits and pieces I took and modified to work here. Open source is amazing.
+
 Lil note here...I'm a hobbyist programmer that wants to learn other languages but my day to day job only has me playing in VBA. My coding is ugly as shit.
 
 This whole thing assumes the following 
